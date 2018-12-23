@@ -1,0 +1,9 @@
+
+<suite name="Suite1">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="LoginPageObjects.LoginPageObjectActions"/>
+      <class name="UltimatixGroup.UltimatixArtifact.AppTest"/>
+    </classes>
+  </test> <!-- Test1 -->
+</suite> <!-- Suite1 -->

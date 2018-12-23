@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-22T06:17:55Z" name="Default suite" finished-at="2018-12-22T06:19:36Z" duration-ms="100613">
+    <groups>
+    </groups>
+    <test started-at="2018-12-22T06:17:55Z" name="Default test" finished-at="2018-12-22T06:19:36Z" duration-ms="100613">
+      <class name="LoginPageObjects.LoginPageObjectActions">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPageObjects.LoginPageObjectActions@561b6512]" started-at="2018-12-22T06:17:55Z" name="setUp" finished-at="2018-12-22T06:18:06Z" duration-ms="10629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="methodUltimatixLogin()[pri:0, instance:LoginPageObjects.LoginPageObjectActions@561b6512]" started-at="2018-12-22T06:18:06Z" name="methodUltimatixLogin" finished-at="2018-12-22T06:19:36Z" duration-ms="89457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodUltimatixLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginPageObjects.LoginPageObjectActions@561b6512]" started-at="2018-12-22T06:19:36Z" name="tearDown" finished-at="2018-12-22T06:19:36Z" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LoginPageObjects.LoginPageObjectActions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
